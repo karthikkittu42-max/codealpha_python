@@ -107,7 +107,6 @@ def play_game():
             print("Super bro, nuvvu gelichesav! 🎉")
             break
     else:
-
         print(display_hangman(tries))
         print(f"Game over bro. Word enti ante: {word}")
 
